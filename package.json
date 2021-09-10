@@ -1,0 +1,21 @@
+{
+  "name": "skew-scrolling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daregoodness1997/skew-scrolling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daregoodness1997/skew-scrolling/issues"
+  },
+  "homepage": "https://github.com/daregoodness1997/skew-scrolling#readme",
+  "dependencies": {}
+}
